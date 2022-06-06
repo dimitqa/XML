@@ -1,0 +1,13 @@
+<root>
+ <Bug Name>Application crashes upon clicking the SAVE button while creating a new user</Bug Name>
+ <Bug ID>220606</Bug ID>
+ <Build Number>Version Number 5.0.1</Build Number>
+ <Severity>HIGH</Severity>
+ <Priority>HIGH</Priority>
+ <Assigned to>Developer-Dmitry<.Assigned to>
+ <Reported By>dimitqa</Reported By>
+ <Reported On>06.06.2022</Reported On>
+ <Reason>Defect</Reason>
+ <Status>New</Status>
+ <Environment>Windows 10</Environment>
+</root>
